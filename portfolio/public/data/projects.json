@@ -12,21 +12,21 @@
             "image": "",
             "link": "https://fitness-typescript-cw8.pages.dev/",
             "tags": ["Typescript", "React", "Vite", "Tailwind CSS"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "text": "A website howcasing our state-of-the-art facilities, expert trainers, and tailored fitness programs designed to help you achieve your health and wellness goals"
         },
         {
             "title": "Wedding Website",
             "image": "",
             "link": "http://dominickandaleenasaidyes.de/",
             "tags": ["Javascript", "CSS"],
-            "text": "A single-page application with responsive design that highlights professional work"
+            "text": "A single-page application with responsive design that highlights professional Wedding invitation"
         },
         {
             "title": "E-Commerce Website",
             "image": "/images/E-Commerce-Website.png",
             "link": "https://cardify-store.de/",
             "tags": ["PHP", "Wordpress", "CSS"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "text": "A versatile platform built on WordPress, designed for seamless and efficient online shopping experiences."
         }
     ]
 }
