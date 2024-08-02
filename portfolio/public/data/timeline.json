@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Fullstack Developer",
+            "company": "DBE Academy",
+            "tasks": "Learning to build modern web applications with API integration such as landingpages and dashboards",
+            "tags": ["React", " jQuery", "JavaScript", "PHP"],
+            "year": "2024"
+        },
+        {
+            "title": "Pricing Analyst",
+            "company": "Europcar",
+            "tasks": "Developed and implemented dashboards for Europcar to monitor product delivery to customers and track promotions, optimizing pricing strategies.",
+            "tags": ["SQL", "SAP BO", "QlikSense"],
+            "year": "2023"
+        },
+        {
+            "title": "Database Administrator",
+            "company": "Freie und Hansestadt Hamburg",
+            "tasks": "During the COVID-19 crisis, I was responsible for data quality and management of call operators.",
+            "tags": ["SQL", "Pandas", "ETL Tool"],
+            "year": "2020"
+        }
+    ]
+}
