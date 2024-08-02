@@ -15,7 +15,7 @@ function Hero() {
                 </p>
                 <div className='flex mobile:hidden mt-6 justify-start w-[17vw]'><SocialMedia size={200} /></div>
             </div>
-            <img className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse" src="portfolio/public/Profilbild.jpg" alt="Dominick Grodkowski" />
+            <img className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse" src="Profilbild.webp" alt="Dominick Grodkowski" />
         </div>
         <div className="desktop:absolute desktop:bottom-10 inset-0 flex items-end py-2 justify-center z-10">
         <Link href={"/#About"} aria-label='About' >

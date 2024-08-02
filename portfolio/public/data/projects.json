@@ -23,7 +23,7 @@
         },
         {
             "title": "E-Commerce Website",
-            "image": "portfolio/public/images/E-Commerce-Website.png",
+            "image": "/images/E-Commerce-Website.png",
             "link": "https://cardify-store.de/",
             "tags": ["PHP", "Wordpress", "CSS"],
             "text": "A website to curate and share photos that capture life's most memorable moments."
