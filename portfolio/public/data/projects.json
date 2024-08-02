@@ -2,21 +2,21 @@
     "data": [
         {
             "title": "Portfolio Website",
-            "image": "",
+            "image": "/images/Portfolio Website.png",
             "link": "Dominick-Grodkowski.de",
             "tags": ["Next.js", "Typescript", "Tailwind CSS"],
             "text": "A portfolio website with responsive design that highlights professional work and services"
         },
         {
             "title": "Fitness Website",
-            "image": "",
+            "image": "/images/Fitness Website.png",
             "link": "https://fitness-typescript-cw8.pages.dev/",
             "tags": ["Typescript", "React", "Vite", "Tailwind CSS"],
             "text": "A website howcasing our state-of-the-art facilities, expert trainers, and tailored fitness programs designed to help you achieve your health and wellness goals"
         },
         {
             "title": "Wedding Website",
-            "image": "",
+            "image": "/images/Wedding Website.png",
             "link": "http://dominickandaleenasaidyes.de/",
             "tags": ["Javascript", "CSS", "HTML"],
             "text": "A single-page application with responsive design that highlights professional Wedding invitation"
