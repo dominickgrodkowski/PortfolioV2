@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "title": "Portfolio Website",
+            "image": "",
+            "link": "Dominick-Grodkowski.de",
+            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
+            "text": "A portfolio website with responsive design that highlights professional work and services"
+        },
+        {
+            "title": "Fitness Website",
+            "image": "",
+            "link": "https://fitness-typescript-cw8.pages.dev/",
+            "tags": ["Typescript", "React", "Vite", "Tailwind CSS"],
+            "text": "A website to curate and share photos that capture life's most memorable moments."
+        },
+        {
+            "title": "Wedding Website",
+            "image": "",
+            "link": "http://dominickandaleenasaidyes.de/",
+            "tags": ["Javascript", "CSS"],
+            "text": "A single-page application with responsive design that highlights professional work"
+        },
+        {
+            "title": "E-Commerce Website",
+            "image": "portfolio/public/images/E-Commerce-Website.png",
+            "link": "https://cardify-store.de/",
+            "tags": ["PHP", "Wordpress", "CSS"],
+            "text": "A website to curate and share photos that capture life's most memorable moments."
+        }
+    ]
+}
