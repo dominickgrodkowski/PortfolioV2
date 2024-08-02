@@ -4,7 +4,7 @@
             "title": "Portfolio Website",
             "image": "",
             "link": "Dominick-Grodkowski.de",
-            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
+            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
             "text": "A portfolio website with responsive design that highlights professional work and services"
         },
         {
@@ -18,14 +18,14 @@
             "title": "Wedding Website",
             "image": "",
             "link": "http://dominickandaleenasaidyes.de/",
-            "tags": ["Javascript", "CSS"],
+            "tags": ["Javascript", "CSS", "HTML"],
             "text": "A single-page application with responsive design that highlights professional Wedding invitation"
         },
         {
             "title": "E-Commerce Website",
             "image": "/images/E-Commerce-Website.png",
             "link": "https://cardify-store.de/",
-            "tags": ["PHP", "Wordpress", "CSS"],
+            "tags": ["PHP", "Javascript", "WooCommerce", "CSS"],
             "text": "A versatile platform built on WordPress, designed for seamless and efficient online shopping experiences."
         }
     ]
