@@ -1,11 +1,11 @@
 {
     "data": [
         {
-            "title": "Portfolio Website",
-            "image": "/images/Portfolio Website.png",
-            "link": "Dominick-Grodkowski.de",
-            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
-            "text": "A portfolio website with responsive design that highlights professional work and services"
+            "title": "E-Commerce Website",
+            "image": "/images/E-Commerce-Website.png",
+            "link": "https://cardify-store.de/",
+            "tags": ["PHP", "Javascript", "WooCommerce", "CSS"],
+            "text": "A versatile platform built on WordPress, designed for seamless and efficient online shopping experiences."
         },
         {
             "title": "Fitness Website",
@@ -19,14 +19,28 @@
             "image": "/images/Wedding Website.png",
             "link": "http://dominickandaleenasaidyes.de/",
             "tags": ["Javascript", "CSS", "HTML"],
-            "text": "A single-page application with responsive design that highlights professional Wedding invitation"
+            "text": "A single-page application with responsive design that highlights a professional Wedding invitation"
         },
         {
-            "title": "E-Commerce Website",
-            "image": "/images/E-Commerce-Website.png",
-            "link": "https://cardify-store.de/",
-            "tags": ["PHP", "Javascript", "WooCommerce", "CSS"],
-            "text": "A versatile platform built on WordPress, designed for seamless and efficient online shopping experiences."
+            "title": "Dashboard Thailand Resorts",
+            "image": "/images/Tableau Thailand.png",
+            "link": "https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand",
+            "tags": ["Tableau", "Pandas", "Python"],
+            "text": "An extensive analysis of resort offerings across different regions of Thailand. The data visualized includes factors like the distribution of resorts, price range, and the range of amenities provided in each region"
+        },
+        {
+            "title": "Dashboard LA Crime",
+            "image": "/images/Tableau LA.png",
+            "link": "http://dominickandaleenasaidyes.de/",
+            "tags": ["Tableau", "Pandas", "Python"],
+            "text": "Analyze and visualize crime trends over time in Los Angeles. The dashboard presents an in-depth look at the various types of crimes committed, their frequency, and the temporal and geographical distribution of these incidents."
+        },
+        {
+            "title": "Portfolio Website",
+            "image": "/images/Portfolio Website.png",
+            "link": "Dominick-Grodkowski.de",
+            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
+            "text": "A portfolio website with responsive design that highlights professional work and services"
         }
     ]
 }
