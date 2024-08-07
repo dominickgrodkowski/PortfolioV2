@@ -1,7 +1,7 @@
 # 💼 PortfolioV2
 
 ## 📋 Description
-A personal portfolio website showcasing projects, skills, and contact information, built with modern web technologies.
+A personal portfolio website built by Dominick Grodkowski using Next.js, showcasing projects, skills, and contact information.
 
 ## 🌟 Features
 - 📄 Display of personal projects
